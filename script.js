@@ -194,4 +194,4 @@ mainTl.from(['.treePathMask','.treePotMask'],{
   },'+=1')
 
 mainTl.add(starTl, 0)
-gsap.globalTimeline.timeScale(1.5);
+//gsap.globalTimeline.timeScale(1.5);
